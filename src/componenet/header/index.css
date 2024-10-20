@@ -1,0 +1,22 @@
+.banner{
+height: 35rem;
+width: 100vw;
+
+}
+
+
+@media only screen and (max-width: 1001px){
+    .banner{
+      height: 30rem;
+    }
+}
+@media only screen and (max-width: 706px){
+    .banner{
+      height: 20rem;
+    }
+}
+@media only screen and (max-width: 418px){
+    .banner{
+      height: 15rem;
+    }
+}
